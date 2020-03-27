@@ -353,3 +353,120 @@ git add index.html
 git commit -m "siva"
 git init
 cd ..
+ls -la
+sudo yum update
+git init
+cd .git
+ls
+cd hooks
+ls
+cd logs
+cd ..
+cd logs
+ls
+cd .
+cd ..
+ls
+git init
+git init .
+tree .
+git init .
+git init
+git stash save
+git init
+sudo yum update
+sudo yum update -y
+sudo yum install -y
+git init
+ls --oneline
+ls -oneline
+ls -la
+ls
+git status
+git add index.html
+git commit -m "my new file"
+tree .
+git tree
+ls -lf
+git status
+git config --global user.name "sivakumar30"
+git config --global user.email "sivasalasi.1988@gmail.com"
+git ls -files
+git log --oneline
+git ls -files
+git ls-files
+git log
+git diff index.html
+l sls
+ls -al
+git log --oneline
+git status
+git rm index.html
+git status
+vi siva.text
+git add siva.text
+git commit -m "my files"
+git status
+git branch b1
+git checkout b1
+git branch
+vi rama.text
+git add rama.text 
+git commit -m "ffff"
+ls 
+git log --oneline
+git branch
+git checkout master
+git ls
+git log
+ls -files
+ls-files
+ls
+git branch
+git log --oneline
+git merge b1
+git log
+ls-files
+ls
+git log --oneline
+git clone https://github.com/sivakumar30/srikanth12.git
+git push -u origin master
+git push origin master
+git remote add origin https://github.com/sivakumar30/myrepo.git
+git push origin master
+git pull https://github.com/sivakumar30/myrepo.git
+git ls
+git log --oneline
+git log --oneline master
+git log --oneline b1
+git status
+git diff cc16bea 
+git diff 851028b 
+git dif 1a608c4
+git remote add origin https://github.com/sivakumar30/myrepo.git
+git push -u origin master
+git push origin master rama.text 
+git log
+git branch
+git log
+git checkout b1
+git log
+vi temper.text
+git add *
+git add .
+git commit -m "temper ntr"
+git status
+git log
+git staus
+git ckeckout master
+git log
+git branch
+git checkout master
+git log --oneline
+git log
+git branch
+git merge b1
+git log
+git push origin b1
+git init
+git config --list
