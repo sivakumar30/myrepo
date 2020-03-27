@@ -470,3 +470,122 @@ git log
 git push origin b1
 git init
 git config --list
+ls
+ggg
+git branch -b renuuuu 
+git checkout -b renuuu
+git branch
+git log --oneline
+git branch
+vi renu.text
+git add renu.text 
+git commit -m "renuuuuuuuuu"
+git status
+git init
+git status
+vi secfet.sh
+git add secfet.sh 
+git commit -m "lucky"
+git checkout master
+vi renu.text
+git add renu.text 
+git commit -m "my renu"
+git log --oneline
+git log
+ls
+git branch -a
+git branch
+git merge renuuu
+vi renu.text
+git add renu.text 
+git commit -m "sm change"
+git merge renuuu
+ls
+git stash siva.text
+git stash list
+git stash rama.text
+ls
+git branch -a
+git branch
+git checkout b1
+git branch -m bf
+git branch -a
+git stash
+git branch -a
+ls -files
+git log
+git stash 851028b61
+git branch
+vi no.sh
+git status
+git stash no.sh
+git stash
+git status
+git stash
+git stash list
+git stash show
+git branch
+git checkout renuuu
+ls -files
+git status
+git stash apply no.sh
+git stash apply "no.sh"
+git add no.sh
+git status
+git stash "new file"
+git stash apply "new file"
+git stash save "new file"
+git stash show
+git stash list
+git stash pop stash@{1}
+git status
+git stash pop stash@{0}
+git commit -m "my pop"
+git status
+git stash clear
+git stash list
+git branch
+git push origin 
+git push origin renuuu
+git clone https://github.com/sivakumar30/myrepo.git
+git log
+it 
+git add .
+git clone https://github.com/sivakumar30/version.git
+git branch
+git log --oneline
+ls
+cd version
+ls
+cat siva
+cat index3.html
+cd ..
+git status
+cd version
+git status
+cd ..
+ls
+cd version
+ls
+git status
+cd ..
+git status
+git add index3.html
+vi index3.html
+git add index3
+git add .
+git add index3.html
+git commit -m "ddd"
+git status
+git clone https://github.com/sivakumar30/git.git
+git status
+cd git/
+ls
+git add -A
+git status
+git push origin renuuu
+git push origin 
+cd ..
+git status
+git add -A
+vi snap.sh
